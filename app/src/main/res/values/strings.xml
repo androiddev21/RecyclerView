@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="move_up">Move up</string>
+    <string name="move_down">Move down</string>
+    <string name="remove">Remove</string>
+    <string name="fire">Fire</string>
+    <string name="unemployed">{Unemployed}</string>
+    <string name="failed_to_load_users">Failed to load users</string>
+    <string name="try_again">Еry again</string>
+    <string name="no_users">No users</string>
+    <string name="user_was_deleted">User was deleted</string>
+    <string name="cant_move_user">Can not move user</string>
+    <string name="cant_delete_user">Can not delete user</string>
+    <string name="cant_fire_user">Can not fire user</string>
+    <string name="cant_load_user_details">Can not load user details</string>
+    <string name="user_has_been_deleted">User has been deleted</string>
+</resources>
